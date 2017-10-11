@@ -1,0 +1,32 @@
+2017-10-06 17:58:31 INFO  TestBase:56 - Device Name is : 785f6754e8252d92
+2017-10-06 17:58:31 INFO  TestBase:63 - Version number is :7.0
+2017-10-06 17:58:31 INFO  TestBase:71 - Package Name is :global.edios.jobspot
+2017-10-06 17:58:31 INFO  TestBase:76 - Activity Name is :global.edios.jobspot.homeScreen.HomeActivity
+2017-10-06 17:58:54 INFO  TestBase:82 - ------ launchApp() method running successfully. ------
+2017-10-06 17:58:54 INFO  TC001_VerifyLoginLogout:27 - ending setUp() method.
+2017-10-06 17:58:54 INFO  TC001_VerifyLoginLogout:33 - ============= Starting testLogin() Test =============
+2017-10-06 17:59:38 ERROR TC001_VerifyLoginLogout:43 - Exception is: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'NITIN-PC', ip: '192.168.3.12', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=global.edios.jobspot, deviceScreenSize=720x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=52033054f4d3a397, version=7.0, platform=LINUX, deviceUDID=52033054f4d3a397, appActivity=global.edios.jobspot.homeScreen.HomeActivity, desired={appPackage=global.edios.jobspot, appActivity=global.edios.jobspot.homeScreen.HomeActivity, browserName=Android, platformName=Android, deviceName=785f6754e8252d92, version=7.0}, platformVersion=7.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, browserName=Android, javascriptEnabled=true, deviceModel=SM-J710F, deviceManufacturer=samsung, platformName=LINUX}]
+Session ID: 9dd77769-15d1-4708-9c6a-a3e8e4a313d1
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Skip' and @index='2']}
+2017-10-06 17:59:48 INFO  TestBase:56 - Device Name is : 785f6754e8252d92
+2017-10-06 17:59:48 INFO  TestBase:63 - Version number is :7.0
+2017-10-06 17:59:48 INFO  TestBase:71 - Package Name is :global.edios.jobspot
+2017-10-06 17:59:48 INFO  TestBase:76 - Activity Name is :global.edios.jobspot.homeScreen.HomeActivity
+2017-10-06 18:00:11 INFO  TestBase:82 - ------ launchApp() method running successfully. ------
+2017-10-06 18:00:11 INFO  TC001_VerifyLoginLogout:27 - ending setUp() method.
+2017-10-06 18:00:11 INFO  TC001_VerifyLoginLogout:33 - ============= Starting testLogin() Test =============
+2017-10-06 18:01:39 ERROR TC001_VerifyLoginLogout:43 - Exception is: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'NITIN-PC', ip: '192.168.3.12', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=global.edios.jobspot, deviceScreenSize=720x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=52033054f4d3a397, version=7.0, platform=LINUX, deviceUDID=52033054f4d3a397, appActivity=global.edios.jobspot.homeScreen.HomeActivity, desired={appPackage=global.edios.jobspot, appActivity=global.edios.jobspot.homeScreen.HomeActivity, browserName=Android, platformName=Android, deviceName=785f6754e8252d92, version=7.0}, platformVersion=7.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, browserName=Android, javascriptEnabled=true, deviceModel=SM-J710F, deviceManufacturer=samsung, platformName=LINUX}]
+Session ID: a588ceb8-fada-4745-8418-51da6dcee907
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Skip' and @index='2']}
